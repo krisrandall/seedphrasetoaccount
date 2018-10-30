@@ -1,0 +1,30 @@
+{
+  "name": "seedphrasetoaccount",
+  "version": "1.0.0",
+  "description": "Pass in a seed phrase and see the first 10 Ethereum addresses and private keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krisrandall/seedphrasetoaccount.git"
+  },
+  "keywords": [
+    "ethereum",
+    "seed",
+    "phrase",
+    "private",
+    "key",
+    "address"
+  ],
+  "author": "Kris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krisrandall/seedphrasetoaccount/issues"
+  },
+  "homepage": "https://github.com/krisrandall/seedphrasetoaccount#readme",
+  "dependencies": {
+    "ethers": "^4.0.7"
+  }
+}
